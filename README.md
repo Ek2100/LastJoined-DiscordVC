@@ -21,10 +21,6 @@
 
 6 - Run The Discord Bot
 
-## 📸 Screenshots
-
-<div align="left"><img src="https://media.discordapp.net/attachments/973143883850584114/1010551848576491520/IMG_5939.png"></div>
-
 ## ✨ Contributors
 
 Contributions are always welcomed :D
